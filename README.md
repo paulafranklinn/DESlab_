@@ -124,13 +124,13 @@ bash ~/Miniconda3-latest-Linux-x86_64.sh
    brew install --cask mactex
    ```
 
-### Installing DESlab
+3. **Installing DESlab**
 
-Navigate to the DESlab directory and install:
-```sh
-cd DESlab_
-pip install setup.py
-```
+  Navigate to the DESlab directory and install:
+  ```sh
+  cd DESlab_
+  pip install setup.py
+  ```
 
 ## Testing
 
