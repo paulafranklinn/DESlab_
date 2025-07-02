@@ -129,7 +129,7 @@ bash ~/Miniconda3-latest-Linux-x86_64.sh
     Navigate to the DESlab directory and install:
     ```sh
     cd DESlab_
-    pip install setup.py
+    pip install .
     ```
 
 ## Testing
