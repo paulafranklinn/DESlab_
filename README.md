@@ -136,7 +136,7 @@ bash ~/Miniconda3-latest-Linux-x86_64.sh
 
 To verify that everything is working correctly, run the test file:
 ```sh
-python testando123.py
+python test.py
 ```
 
 If the test runs without errors, your installation is complete!
