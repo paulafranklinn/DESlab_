@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: DESlab
+Version: 0.0.4
+Summary: DESlab is a scientific computing program for discrete event systems (DES) modeled as automata.
+Home-page: http://www.dee.ufrj.br/lca/
+Author: Leonardo Clavijo, Daniel Ramos Garcia, Joao Carlos Basilio, Lilian Kawakami
+Author-email: deslab@ufrj.br
+Maintainer: Leonardo Clavijo, Daniel Ramos Garcia, Joao Carlos Basilio, Lilian Kawakami
+Maintainer-email: deslab@ufrj.br
+License: BSD
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/plain
+Requires-Dist: networkx>=2.8
+Requires-Dist: pandas>=2.0
+Requires-Dist: pyparsing>=3.0
+Requires-Dist: pydot>=1.4
+Requires-Dist: portion>=2.0
+
+
+DESlab
+========
+DESlab is a scientific computing program written in Python
+for the development of algorithms for analysis and synthesis
+of discrete event systems (DES) modeled as automata.
+It integrates automata, graph algorithms, and numerical
+calculations. DESlab also allows the definition of symbolic
+variables and incorporates concise instructions to manipulate,
+analyze and visualize them, with syntax close to DES theory.

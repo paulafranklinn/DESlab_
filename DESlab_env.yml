@@ -1,0 +1,17 @@
+name: DESlab_
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - graphviz  # sistema
+  - pip:
+      - fado==2.2.0
+      - future==1.0.0
+      - networkx==2.8.8
+      - pandas==2.2.3
+      - pydot==3.0.1
+      - pyparsing==3.1.4
+      - setuptools==75.1.0
+      - portion==2.5.0

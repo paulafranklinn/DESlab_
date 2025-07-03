@@ -1,0 +1,5 @@
+networkx>=2.8
+pandas>=2.0
+pyparsing>=3.0
+pydot>=1.4
+portion>=2.0
